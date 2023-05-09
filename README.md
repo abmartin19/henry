@@ -1,2 +1,1 @@
-# henry
-repositorio de prueba modulo 2
+proyecto prueba como crear un repositorio y clonarlo desde github a mi escritorio
